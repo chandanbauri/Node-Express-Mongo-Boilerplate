@@ -8,7 +8,7 @@ import cors from "cors"
 import * as MiddleWares from "./middleware"
 import UsersRouter from "./routes/users/users-routes"
 
-let PORT = process.env.SERVER_PORT ?? 4000
+let PORT = process.env.SERVER_PORT || 4000
 
 let app = express()
 app.use(cors())
