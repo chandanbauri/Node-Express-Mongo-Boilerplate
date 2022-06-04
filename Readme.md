@@ -10,7 +10,7 @@ this is a boilerplate to build a rest API using Mongo DB , Node Js , Express and
 ---
     $ yarn install 
 ---
-        or 
+or 
 ---
     $ npm install
 ---
@@ -18,13 +18,13 @@ this is a boilerplate to build a rest API using Mongo DB , Node Js , Express and
 - step: 3 start the application
 
 ---    
-$ yarn start 
+    $ yarn start 
 ---
 
-    or 
+or 
 
 ---
-$ npm start
+    $ npm start
 ---  
 
 
