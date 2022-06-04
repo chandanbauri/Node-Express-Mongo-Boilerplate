@@ -4,8 +4,8 @@ this is a boilerplate to build a rest API using Mongo DB , Node Js , Express and
 
 ## let's get started  
 
-    - step: 1 clone ot fork the repository on your local system  
-    - step: 2 install the node_modules
+- step: 1 clone ot fork the repository on your local system  
+- step: 2 install the node_modules
 
     ---
 
@@ -21,7 +21,7 @@ this is a boilerplate to build a rest API using Mongo DB , Node Js , Express and
 
     ---
 
-    - step: 3 start the application
+- step: 3 start the application
 
     ---
     
